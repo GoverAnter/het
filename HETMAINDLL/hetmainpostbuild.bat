@@ -1,0 +1,9 @@
+echo Copying HETMAIN.dll...
+COPY /Y ..\Release\HETMAIN.dll ..\HETMain\bin\HETMain.dll
+echo Copying HETMAIN.lib...
+COPY /Y ..\Release\HETMAIN.lib ..\HETMain\lib\HETMain.lib
+echo Copying HETMAIN header...
+COPY /Y HETMAIN.h ..\HETMain\include\HETMAIN.h
+
+
+HETHasher.exe

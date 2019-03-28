@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  HETDPFTest.cpp
+c:\users\goveranter\documents\het project\het\hetdpftest\hetdpftest.cpp(681): warning C4477: 'printf' : la chaîne de format '%#x' nécessite un argument de type 'unsigned int', mais l'argument variadique 1 est de type 'PVOID'
+c:\users\goveranter\documents\het project\het\hetdpftest\hetdpftest.cpp(698): warning C4477: 'printf' : la chaîne de format '%#x' nécessite un argument de type 'unsigned int', mais l'argument variadique 1 est de type 'PVOID'
+c:\users\goveranter\documents\het project\het\hetdpftest\hetdpftest.cpp(635): warning C4101: 'previousProtection' : variable locale non référencée
+c:\users\goveranter\documents\het project\het\hetdpftest\hetdpftest.cpp(635): warning C4101: 'dwWritten' : variable locale non référencée
+  HETDPFTest.vcxproj -> C:\Users\GoverAnter\Documents\HET Project\HET\Debug\HETDPFTest.exe
+  HETDPFTest.vcxproj -> C:\Users\GoverAnter\Documents\HET Project\HET\Debug\HETDPFTest.pdb (Full PDB)

@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  HETDPFTest.cpp
+  LightCrypter.cpp
+d:\00_old\cpp projects\het project\het\hetdpftest\lightcrypter.cpp(63): warning C4244: 'initialisation' : conversion de 'double' en 'uint', perte possible de données
+d:\00_old\cpp projects\het project\het\hetdpftest\lightcrypter.cpp(92): warning C4018: '<' : incompatibilité signed/unsigned
+d:\00_old\cpp projects\het project\het\hetdpftest\lightcrypter.cpp(106): warning C4244: '+=' : conversion de 'double' en 'uint', perte possible de données
+d:\00_old\cpp projects\het project\het\hetdpftest\lightcrypter.cpp(119): warning C4244: 'initialisation' : conversion de 'double' en 'uint', perte possible de données
+d:\00_old\cpp projects\het project\het\hetdpftest\lightcrypter.cpp(123): warning C4244: '+=' : conversion de 'double' en 'uint', perte possible de données
+d:\00_old\cpp projects\het project\het\hetdpftest\lightcrypter.cpp(137): warning C4244: 'initialisation' : conversion de 'double' en 'uint', perte possible de données
+d:\00_old\cpp projects\het project\het\hetdpftest\lightcrypter.cpp(142): warning C4244: '+=' : conversion de 'double' en 'uint', perte possible de données
+d:\00_old\cpp projects\het project\het\hetdpftest\lightcrypter.cpp(177): warning C4244: 'argument' : conversion de 'uint' en 'const _Elem', perte possible de données
+          with
+          [
+              _Elem=char
+          ]
+  Génération de code en cours
+  102 of 102 functions (100.0%) were compiled.
+    57 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  HETDPFTest.vcxproj -> D:\00_Old\Cpp Projects\HET Project\HET\Release\HETDPFTest.exe

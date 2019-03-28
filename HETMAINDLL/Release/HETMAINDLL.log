@@ -1,0 +1,15 @@
+﻿  HETDPFL.cpp
+d:\00_old\cpp projects\het project\het\hetmaindll\hetdpfl.cpp(85): warning C4018: '<' : incompatibilité signed/unsigned
+  HETH.cpp
+d:\00_old\cpp projects\het project\het\hetmaindll\heth.cpp(22): warning C4018: '<' : incompatibilité signed/unsigned
+d:\00_old\cpp projects\het project\het\hetmaindll\heth.cpp(62): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+LINK : warning LNK4075: ' /INCREMENTAL' ignoré à cause de la spécification '/OPT:REF'
+     Création de la bibliothèque D:\00_Old\Cpp Projects\HET Project\HET\Release\HETMain.lib et de l'objet D:\00_Old\Cpp Projects\HET Project\HET\Release\HETMain.exp
+  HETMAINDLL.vcxproj -> D:\00_Old\Cpp Projects\HET Project\HET\Release\HETMain.dll
+  Copying HETMAIN.dll...
+          1 fichier(s) copié(s).
+  Copying HETMAIN.lib...
+          1 fichier(s) copié(s).
+  Copying HETMAIN header...
+          1 fichier(s) copié(s).

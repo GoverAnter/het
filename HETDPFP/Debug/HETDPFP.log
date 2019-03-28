@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  HETh.cpp
+c:\users\goveranter\documents\het project\het\hetdpfp\heth.cpp(22): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\goveranter\documents\het project\het\hetdpfp\heth.cpp(62): warning C4018: '<' : incompatibilité signed/unsigned
+  HETDPFP.cpp
+c:\users\goveranter\documents\het project\het\hetdpfp\hetdpfp.cpp(40): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Génération de code en cours...
+  HETDPFP.vcxproj -> C:\Users\GoverAnter\Documents\HET Project\HET\Debug\HETDPFP.exe
+  HETDPFP.vcxproj -> C:\Users\GoverAnter\Documents\HET Project\HET\Debug\HETDPFP.pdb (Full PDB)

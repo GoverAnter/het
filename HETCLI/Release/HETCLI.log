@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+d:\00_old\cpp projects\het project\het\hetcli\stdafx.h(17): fatal error C1083: Impossible d'ouvrir le fichier include : 'HETMAIN.h' : No such file or directory
